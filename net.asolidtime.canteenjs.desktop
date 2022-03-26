@@ -1,0 +1,21 @@
+[Desktop Entry]
+Categories=Game;
+Comment[en_US]=cute lil' game launcher, in js this time
+Comment=cute lil' game launcher, in js this time
+Exec=/usr/bin/node .
+GenericName[en_US]=
+GenericName=
+Icon=lutris
+Keywords=gaming;wine;emulator;
+MimeType=
+Name[en_US]=Canteen
+Name=Canteen
+Path=/home/maxwell/Documents/Programming/node/canteen
+StartupNotify=true
+Terminal=false
+TerminalOptions=
+Type=Application
+X-DBUS-ServiceName=
+X-DBUS-StartupType=
+X-KDE-SubstituteUID=false
+X-KDE-Username=
